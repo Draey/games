@@ -1,13 +1,11 @@
-# shabaz_git
+# What is it
 
-# H1
+Python CLI based gambling game.
 
-This is a test repo of projects published 
+## Purpose
 
-## H2 
+Project for python upskilling and learning for fun.
 
-Test 2 heading
+### More Info
 
-### 
-
-Test3 heading
+Descripive comments can be found for each individual line to explain the thought process behind the code.
